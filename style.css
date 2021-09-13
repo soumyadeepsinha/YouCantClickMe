@@ -8,7 +8,7 @@
 
 button {
   position: fixed;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.5s ease-out;
   outline: none;
   padding: 10px 15px;
   font-size: 36px;
