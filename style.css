@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  position: fixed;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+  padding: 10px 15px;
+  font-size: 36px;
+  border-radius: 5px;
+  cursor: pointer;
+}
